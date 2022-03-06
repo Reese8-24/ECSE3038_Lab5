@@ -1,0 +1,70 @@
+.container{
+    background-color: #35b9d0;
+    padding-top: 55px;
+    padding-bottom: 118px;
+    padding-right: 66px;
+    padding-left: 71px;
+    margin-top: 2%;
+    margin-bottom: 9%;
+    margin-right: 100%;
+    margin-left:200% ;
+    box-shadow: -20px 9px 3px 0px #0000007a;
+    height: 28px;
+    width: 380px;
+    border-radius: 0%;
+    justify-content: center space-evenly;
+}
+
+h1{
+    height: 8px;
+    margin-top: 1px;
+    margin-left: 35%;
+    margin-right: 50%;
+    font-family: 'Times New Roman', serif;
+    font-size: 80%;
+    font-weight:100 px;
+    justify-content: center;
+}
+hr{
+    border: 10px solid rgba(182, 34, 34, 0);
+    margin-bottom: 3px;
+    width: 100px;;
+}
+.userProfile{
+    border-radius:1%;
+    background-color: #35b9d0;
+    align-items: cent;
+}
+
+h3{
+    height: 8px;
+    margin-right: 100px;
+    margin-left: 35%;
+    margin-right: 50%;
+    font-family: 'Times New Roman', serif;
+    font-size: 80%;
+    font-weight:100 px;
+    justify-content: center;
+}
+
+.tanks{
+    background-color: #35b9d0;
+    padding-top: 13px;
+    padding-bottom: 25px;
+    padding-right: 0px;
+    padding-left: 100px;
+    margin-top: 10%;
+    margin-bottom: 20%;
+    margin-right: 300%;
+    margin-left: -200%;
+    box-shadow: -19px 2px 3px 0px #0000007a;
+    width: 280px;
+    border-radius: 50%;
+    justify-content: center space-evenly;
+}
+
+.tobj{
+    width:100px;
+    background-color:  #35b9d0;
+    justify-content: center space-evenly;
+}
